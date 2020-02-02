@@ -1,0 +1,16 @@
+{
+  "name": "eko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Graph.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^25.1.0",
+    "mocha": "^7.0.1"
+  }
+}
