@@ -9,7 +9,7 @@ Library to find direct route, all possible routes and cheapest route between nod
 
 1. Clone this repo
 2. run `npm i`
-3. run sh test.sh or `npm start`
+3. run `sh test.sh` or `npm start`
 4. For Test Case: `sh test.sh`
 
 ## Usage
